@@ -51,7 +51,7 @@ export const tours = [
   {
     id: 2,
     image: tour2,
-    date: "october 1th, 2025",
+    date: "october 1st, 2025",
     title: "best of java",
     info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
     location: "indonesia",
