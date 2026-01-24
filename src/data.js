@@ -16,6 +16,7 @@ export const socialLinks = [
   { id: 3, href: "https://www.squarespace.com/", icon: "fab fa-squarespace" },
 ];
 
+
 export const services = [
   {
     id: 1,
